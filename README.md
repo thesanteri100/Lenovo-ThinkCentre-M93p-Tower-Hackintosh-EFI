@@ -8,8 +8,11 @@ https://github.com/OpenIntelWireless/itlwm
 
 Here's how to download suitable Install image for you.
 Windows: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html
+
 Linux: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/linux-install.html
+
 mac OS: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html
+
 
 Helpful tools for the install:
 https://github.com/corpnewt/ProperTree (Editing .plist files)
