@@ -30,3 +30,5 @@ https://github.com/acidanthera/OpenCorePkg/releases (Opencore bootloader and ver
 https://dortania.github.io/OpenCore-Install-Guide/ (opencore install guides)
 
 https://github.com/benbaker76/Hackintool (for installed system to check that everything is working)
+
+![Näyttökuva 2023-10-13 kello 18 10 54](https://github.com/thesanteri100/Lenovo-ThinkCentre-M93p-Tower-Hackintosh-EFI/assets/76747649/acbdc8d8-4002-4094-aaac-88db960be0f8)
