@@ -24,3 +24,5 @@ https://github.com/corpnewt/MountEFI (for mounting EFI partition)
 https://github.com/acidanthera/OpenCorePkg/releases (Opencore bootloader and verifying tools)
 
 https://dortania.github.io/OpenCore-Install-Guide/ (opencore install guides)
+
+https://github.com/benbaker76/Hackintool (for installed system to check that everything is working)
