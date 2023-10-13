@@ -4,6 +4,7 @@ Here's full EFI for Lenovo M93P For macOS Monterey.
 
 With support for Intel WIFI cards
 (AirportItlwm.kext)
+
 https://github.com/OpenIntelWireless/itlwm
 
 Helpful tools for the install:
